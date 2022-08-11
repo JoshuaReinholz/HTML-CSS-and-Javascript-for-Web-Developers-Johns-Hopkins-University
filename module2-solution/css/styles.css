@@ -1,5 +1,5 @@
 /********** Large devices only **********/
-@media (min-width: 992px){
+@media (min-width: 992px) {
 	.lg-3 {
 		float: left;
 		border: 1px solid black;
